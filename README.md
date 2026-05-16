@@ -1,4 +1,5 @@
 # SpineHealth
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/8d1dbc76-5e41-44d3-a2e3-40e9f309f0c2" />
 
 SpineHealth is an advanced spine therapy and monitoring web application designed to help users manage their back health. It features an intuitive interface built with React, Vite, Tailwind CSS, and Framer Motion.
 
